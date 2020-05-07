@@ -10,6 +10,5 @@ end
 knowledge << string
 end
 
-end 
 
 end
